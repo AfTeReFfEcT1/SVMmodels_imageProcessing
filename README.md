@@ -1,1 +1,1 @@
-# SVMmodels_imageProcessing
+# Basic image segmentation using Support Vector Machine
